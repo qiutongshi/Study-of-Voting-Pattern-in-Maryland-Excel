@@ -34,5 +34,25 @@ This project uses 3-cluster analysis for each party in Maryland using the number
   - Baltimore City, Baltimore County, Montgomery, Prince Georege’s
 - Cluster 3: Fewer number of democrats participated in polls, early voting, absentee voting, provisional voting, but the eventual turnout was a lot higher than average
   - Anne Arundel, Calvert, Carroll, Charles, Frederick, Harford, Howard, Kent, Queen Anne’s, Somerset, Talbot
+  <img width="1237" alt="Democrat" src="https://user-images.githubusercontent.com/70663111/97830416-e35d0e80-1c9a-11eb-9746-491d22b97d8c.png">
+  
+  ### Republican
+- Cluster 1: More republicans participated in polls, many more participated in early voting, more participated in absentee voting, extremely slightly more participated in provisional voting, final turnout was higher than average
+  - Carroll, Frederick, Harford, Howard, Prince George’s
+- Cluster 2: Much fewer republicans participated in polls, early votings, fewer participated in absentee voting, much fewer in provisional voting, final turnout was higher than average
+  - Allegany, Baltimore City, Calvert, Caroline, Cecil, Charles, Dorchester, Garrett, Kent, Queen Anne’s, Saint Mary’s, Somerset, Talbot, Washington, Wincomico, Worcester
+- Cluster 3: Extremely more republicans participated in polls, early voting, absentee voting, provisional voting, final turnout was higher than average
+  - Anne Arundel, Baltimore County, Montgomery
+
+<img width="1248" alt="Republican" src="https://user-images.githubusercontent.com/70663111/97830420-e526d200-1c9a-11eb-8cb2-82cdd4d2fb68.png">
+
+# Summary
+For both Democrats and Republicans in Maryland, the countries that were very active in all categories were not the majorities. Republicans who were less active in every voting stage were much more than the number of Democrats. While being less active, the final turnout rate of these people were still higher than average. Compared with Democrats however, although Democrats in Maryland could have been active in every voting stage, the eventual turnout rate could be just moderate considering how much they have participated in the other processes. 
+
+Interestingly, there is unlikely a corresponding pattern between activity level of Republicans and Democrats in the same county. What the clusters in both parties show is that the activity level of a county in voting steps  can reflect in both Republicans and Democrats, such as those in Baltimore County and Montgomery. Republicans and Democrats in Allegany, Caroline, Cecil, Dorchester, Garrett,  Saint Mary’s,Washington, Wincomico, Worcester are both less active in the voting process, except that Republicans still vote while democrats vote a lot less than average. 
+
+The reasons behind these differences are yet to be determined. The only thing that can be sure is that voting is an important right of citizens. To create an atmosphere that encourages everyone to speak up and take action is important in alleviating many social problems and disagreements. Compared with other states that might witch hunt those of any supporter of a single political party, Maryland is not showing the same fault. 
+
+
   
 
