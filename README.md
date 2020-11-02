@@ -56,7 +56,7 @@ This project uses 3-cluster analysis for each party in Maryland using the number
 
 
 # Summary
-For both Democrats and Republicans in Maryland, the countries that were very active in all categories were not the majorities. Republicans who were less active in every voting stage were much more than the number of Democrats. While being less active, the final turnout rate of these people were still higher than average. Compared with Democrats however, although Democrats in Maryland could have been active in every voting stage, the eventual turnout rate could be just moderate considering how much they have participated in the other processes. 
+For both Democrats and Republicans in Maryland, the counties that were very active in all categories were not the majorities. Republicans who were less active in every voting stage were much more than the number of Democrats. While being less active, the final turnout rate of these people were still higher than average. Compared with Democrats however, although Democrats in Maryland could have been active in every voting stage, the eventual turnout rate could be just moderate considering how much they have participated in the other processes. 
 
 Interestingly, there is unlikely a corresponding pattern between activity level of Republicans and Democrats in the same county. What the clusters in both parties show is that the activity level of a county in voting steps  can reflect in both Republicans and Democrats, such as those in Baltimore County and Montgomery. Republicans and Democrats in Allegany, Caroline, Cecil, Dorchester, Garrett,  Saint Mary’s,Washington, Wincomico, Worcester are both less active in the voting process, except that Republicans still vote while democrats vote a lot less than average. 
 
