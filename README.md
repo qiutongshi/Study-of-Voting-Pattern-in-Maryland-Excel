@@ -46,6 +46,15 @@ This project uses 3-cluster analysis for each party in Maryland using the number
 
 <img width="1248" alt="Republican" src="https://user-images.githubusercontent.com/70663111/97830420-e526d200-1c9a-11eb-8cb2-82cdd4d2fb68.png">
 
+## Work with Excel
+1. Clean the data: deleting unecessary data except for polls, early voting, absentee voting, provinsional voting, turnout
+2. Calculate the mean and standard deviation or all variables in each state by MEAN() and STD.DEV()
+3. Standardize four attributes using STANDARDIZE() for z-scores
+4. Choose Allebany, Prince George;s, Washington as three anchors and use VLOOKUP() to find their z-scores
+5. Calculate the distance between each z-score with the corresponding of the anchors, and use MIN() to find the minimum distance, then use MATCH() to find the anchor in which the minimum distance belongs
+6. Calculate the sum of minimum distances and use solver to do cluster analysis based on different race categories
+
+
 # Summary
 For both Democrats and Republicans in Maryland, the countries that were very active in all categories were not the majorities. Republicans who were less active in every voting stage were much more than the number of Democrats. While being less active, the final turnout rate of these people were still higher than average. Compared with Democrats however, although Democrats in Maryland could have been active in every voting stage, the eventual turnout rate could be just moderate considering how much they have participated in the other processes. 
 
