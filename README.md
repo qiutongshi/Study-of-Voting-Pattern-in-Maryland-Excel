@@ -1,5 +1,4 @@
 # Rep-Dep-Maryland
-Qiutong Shi
 
 ## Background
 The 2020 presidential election is coming soon. The results of the 2016 presidential election came as a surprise to nearly everyone who had been following the national and state election polling, which consistently projected Hillary Clinton as defeating Donald Trump. Relying largely on opinion polls, election forecasters put Clinton’s chance of winning at anywhere from 70% to as high as 99%, and pegged her as the heavy favorite to win a number of states such as Pennsylvania and Wisconsin that in the end were taken by Trump.
